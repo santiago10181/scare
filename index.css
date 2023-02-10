@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+.container-fluid{
+    padding: 3rem;
+}
+.colo1{
+    background-color: #93BFCF;
+}
+.colo2{
+    background-color: #FBC252;
+}
+.colo3{
+    background-color: #93BFCF;
+}
+.navbar {
+    background-color: #EAF6F6;
+    padding: 20%;
+}
+.navbar h1{
+    font-size: 2rem;
+}
+.navbar img{
+    height: 4rem;
+}
